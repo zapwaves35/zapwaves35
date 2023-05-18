@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rtmartin35
-- 👀 I’m interested in ... contributing to opensource and networking.
-- 🌱 I’m currently learning ... design and architecture patterns in C++, Python, Linux and React.
+- 👋 Hi, I’m zapwaves35
+- 👀 I’m interested in ... contributing to opensource and practicing.
+- 🌱 I’m currently learning ... system patterns and how to apply a devops mindset to hybrid cloud/on-premise infrastructure.
 - 💞️ I’m looking to collaborate on ... projects that help people or the environment.
 - 📫 How to reach me ... 
 
